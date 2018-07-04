@@ -11,7 +11,7 @@ A Python script to convert [Zotero CSV export](https://www.zotero.org/support/pr
 
 ## Usage
 
-python3 zotero2wordpress.py input.csv output.xml
+`python3 zotero2wordpress.py input.csv output.xml`
 
 ## Quick usage
 
